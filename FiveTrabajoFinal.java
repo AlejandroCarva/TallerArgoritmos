@@ -10,9 +10,9 @@ public class FiveTrabajoFinal {
         int TrabajoFinal = 0 ;
         int CalificacionFinal = 0 ;
         Scanner Trabajo = new Scanner (System.in);
-        System.out.println("Ingresa calificacion del primer examen");
+        System.out.println("Ingresa calificacion del primer examen ");
         Calificacion1 = Trabajo.nextInt();
-        System.out.println("Ingresa calificacion del segundo examen");
+        System.out.println("Ingresa calificacion del segundo examen ");
         Calificacion2 = Trabajo.nextInt();
         System.out.println("Ingresa calificacion del tercer examen");
         Calificacion3 = Trabajo.nextInt();
