@@ -1,6 +1,7 @@
+package ejercicios;
 import java.util.Scanner;
 public class SeventeenProductoDescuento {
-    public static void main (String[]args){
+    public void ejercicio17(){
         Scanner lapiz = new Scanner(System.in);
         System.out.println("Ingrese el precio final del producto");
         double PrecioFinal = lapiz.nextDouble();

@@ -1,6 +1,7 @@
+package ejercicios;
 import java.util.Scanner;
 public class EightAreatriangulo {
-    public static void main (String[] args) {
+    public void ejercicio8() {
         double a = 0;
         double b = 0;
         double c = 0;

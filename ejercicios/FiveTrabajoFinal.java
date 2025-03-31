@@ -1,6 +1,7 @@
+package ejercicios;
 import java.util.Scanner;
 public class FiveTrabajoFinal {
-    public static void main(String[] args){
+    public void ejercicio5(){
         int Calificacion1 = 0 ;
         int Calificacion2 = 0 ;
         int Calificacion3 = 0 ;

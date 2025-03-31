@@ -1,6 +1,7 @@
+package ejercicios;
 import java.util.Scanner;
  public class TwentyOneMayorista{
-    public static void main(String[]args){
+    public void ejercicio21(){
         double X = 48000;
         double Y = 6 ;
         double K = 42000;

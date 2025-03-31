@@ -1,6 +1,7 @@
+package ejercicios;
 import java.util.Scanner;
 public class ElevenSueldoTrabajador {
-    public static void main (String [] args){
+    public void ejercicio11(){
         Scanner lapiz = new Scanner (System.in);
         System.out.println("Ingrese el nombre del trabajador: ");
         String nombre = lapiz.nextLine();

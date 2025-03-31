@@ -1,7 +1,8 @@
+package ejercicios;
 import java.util.Scanner;
 
 public class FourTienda {
-    public static void main(String[] args) {
+    public void ejercicio4() {
         int CompraTotal = 0;
         int Descuento = 0;
         int CompraDescuento = 0;
@@ -12,9 +13,6 @@ public class FourTienda {
         System.out.println("El descuento sera de:"+ Descuento);
         CompraDescuento = CompraTotal - Descuento;
         System.out.println("La compra total con descuento es de un total: "+ CompraDescuento);
-
-        
-
 
     }
 }

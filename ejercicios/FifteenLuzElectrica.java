@@ -1,6 +1,7 @@
+package ejercicios;
 import java.util.Scanner;
 public class FifteenLuzElectrica {
-    public static void main(String[]args){
+    public void ejercicio15(){
         Scanner lapiz = new Scanner(System.in);
         System.out.println("Ingrese la lectura anterior de la luz electrica");
         double LecturaA = lapiz.nextDouble();

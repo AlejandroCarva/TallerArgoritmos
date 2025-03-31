@@ -1,6 +1,7 @@
+package ejercicios;
 import java.util.Scanner;
 public class SixEstudiantes {
-    public static void main(String[]args){
+    public void ejercicio6(){
         int TotalEstudiantes = 0;
         int TotalMujeres = 0 ;
         int TotalHombres = 0 ;

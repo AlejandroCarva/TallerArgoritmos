@@ -1,7 +1,8 @@
+package ejercicios;
 import java.util.Scanner;
 
 public class FourteenEcuacionLinea {
-    public static void main(String[]args){
+    public void ejercicio14(){
         Scanner lapiz = new Scanner(System.in);
         System.out.println("Ingrese el valor de a: ");
         double a = lapiz.nextDouble();

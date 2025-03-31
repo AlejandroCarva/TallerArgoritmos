@@ -1,7 +1,8 @@
+package ejercicios;
 import java.util.Scanner;
 
 public class TwelvePromedioEstudiante {
-    public static void main (String [] args ){
+    public void ejercicio12(){
         Scanner lapiz = new Scanner(System.in);
         //Matematicas
         System.out.println("Ingrese la primera nota de la 1 tarea de Matematicas : ");

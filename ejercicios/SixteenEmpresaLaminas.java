@@ -1,6 +1,7 @@
+package ejercicios;
 import java.util.Scanner;
 public class SixteenEmpresaLaminas {
-    public static void main(String[]args){
+    public void ejercicio16(){
         Scanner lapiz = new  Scanner(System.in);
         //Dimensiones 
         double ancho = 4.0 ;

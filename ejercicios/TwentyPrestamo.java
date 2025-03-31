@@ -1,6 +1,7 @@
+package ejercicios;
 import java.util.Scanner;
 public class TwentyPrestamo {
-    public static void main(String[]args){
+    public void ejercicio20(){
     Scanner lapiz = new Scanner(System.in);
     System.out.println("Ingrese el Prestamo: ");
     double CapitalPrestamo = lapiz.nextDouble();

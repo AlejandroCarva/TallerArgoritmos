@@ -1,7 +1,8 @@
+package ejercicios;
 import java.util.Scanner;
 
 public class ThreeVendedor {
-    public static void main(String[] arg ) {
+    public void ejercicio3() {
         /// 
     int Sueldo = 0 ;
     int Ventas = 0 ;

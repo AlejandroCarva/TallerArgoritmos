@@ -1,6 +1,7 @@
+package ejercicios;
 import java.util.Scanner;
 public class EighteenGasolinera {
-    public static void main (String[]args){
+    public void ejercicio18(){
         Scanner lapiz = new Scanner(System.in);
         System.out.println("Ingrese la cantidad de galones registrados");
         double Galones = lapiz.nextDouble();

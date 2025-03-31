@@ -1,6 +1,7 @@
+package ejercicios;
 import java.util.Scanner;
 public class SevenMetros {
-    public static void main (String []args){
+    public void ejercicio7(){
       int metros = 1 ;
       double metrosApulgadas = 0 ;
       double pulgadas = 39.27 ;

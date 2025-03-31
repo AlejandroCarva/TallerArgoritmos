@@ -1,7 +1,8 @@
+package ejercicios;
 import java.util.Scanner;
 
 public class TenCambiosDivisas {
-    public static void main (String [] args){
+    public void ejercicio10(){
         ///Cambios de divisas
     Double chelinesAustriaocos = (956.871/100);
     Double Austriacos ; 

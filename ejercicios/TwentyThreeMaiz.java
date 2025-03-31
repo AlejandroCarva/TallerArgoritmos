@@ -1,6 +1,7 @@
+package ejercicios;
 import java.util.Scanner;
 public class TwentyThreeMaiz {
-    public static void main(String[] args) {
+    public void ejercicio23() {
         Scanner scanner = new Scanner(System.in);
 
         // Solicitar datos

@@ -1,7 +1,8 @@
+package ejercicios;
 import java.util.Scanner;
 
 public class TwentyTwoCalculoRecargo {
-    public static void main(String[] args) {
+    public void ejercicio22() {
         Scanner scanner = new Scanner(System.in);
 
         // Solicitar el precio al contado

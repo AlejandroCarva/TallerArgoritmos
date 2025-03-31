@@ -1,7 +1,8 @@
+package ejercicios;
 import java.util.Scanner;
 
 public class TwoInversion {
-    public static void main(String[] args) {
+    public static void ejercicio2() {
         int Inversion = 0 ;
         int razon = 2 ;
         int Ganancia = 0 ; 

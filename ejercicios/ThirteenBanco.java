@@ -1,6 +1,7 @@
+package ejercicios;
 import java.util.Scanner;
 public class ThirteenBanco {
-    public static void main(String[]args){
+    public void ejercicio13(){
         Scanner lapiz = new Scanner(System.in);
         int N1 = 50000, N1TOTAL ;
         int N2 = 20000, N2TOTAL;

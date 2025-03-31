@@ -1,6 +1,7 @@
+package ejercicios;
 import java.util.Scanner;
 public class NineteenHospitalRural {
-    public static void main (String[]args ){
+    public void ejercicio19(){
         Scanner lapiz = new Scanner(System.in);
         System.out.println("Ingrese el presupuesto anual de hospital");
         double Presupuesto = lapiz.nextDouble();

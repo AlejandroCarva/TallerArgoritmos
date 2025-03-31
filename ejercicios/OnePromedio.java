@@ -1,7 +1,8 @@
+package ejercicios;
 import java.util.Scanner;
 
 public class OnePromedio {
-    public static void main(String[] args) throws Exception {
+    public  void ejercicio1() {
         // Promedio de 3 personas
         int a = 0;
         int b = 0;

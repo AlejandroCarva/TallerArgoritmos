@@ -1,6 +1,7 @@
+package ejercicios;
 import java.util.Scanner;
 public class NineSalarioTrabajador {
-    public static void main(String[] args){
+    public void ejercicio9(){
     float SalarioNeto = 0 ;
     float ValorHoras = 0 ;
     float HorasTrabajadas = 0 ;
